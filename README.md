@@ -47,6 +47,6 @@ Fraud detection pipeline with feature engineering and risk scoring.
 
 ## Connect With Me
 
-LinkedIn: <link>
+LinkedIn: https://www.linkedin.com/in/adithiyaan/
 
-Email: <email>
+Email: adithiyaan.work@gmail.com
