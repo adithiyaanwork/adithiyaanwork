@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Adithiyaa 👋
 
-<!--
-**adithiyaanwork/adithiyaanwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at RV University (CGPA: 9.04/10).
 
-Here are some ideas to get you started:
+Interested in:
+- Backend Engineering
+- AI Systems
+- Data Science
+- Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+### Languages
+Python, Java, JavaScript, SQL
+
+### Backend
+FastAPI, Node.js, REST APIs
+
+### Frontend
+React, HTML, CSS
+
+### Databases
+PostgreSQL, Redis
+
+### Tools
+Docker, AWS, Linux, Git
+
+## Experience
+
+- AI/ML Intern @ VR Unnathi Health and Education Trust
+- Machine Learning Intern @ Ziroh Labs
+- Backend Developer Intern @ Broad Range AI
+
+## Featured Projects
+
+### Financial Analytics & Insights Platform
+Backend system for financial data ingestion, analytics, and AI-powered insights.
+
+### Transaction Risk & Fraud Analysis System
+Fraud detection pipeline with feature engineering and risk scoring.
+
+## Currently Working On
+
+- Open Source Contributions
+- AI-powered Backend Systems
+- Interview Preparation
+
+## Connect With Me
+
+LinkedIn: <link>
+
+Email: <email>
